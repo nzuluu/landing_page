@@ -12,10 +12,8 @@ body {
 
 .content-img {
     width:130px;
-    height:130px;
-
+    height:100px;
     border-radius: 8px;
-    border: 2px solid #3882F6;
 }
 
 .header, .hero, .footer {
@@ -64,7 +62,9 @@ button {
     color: #E5E7EB;
     font-weight: bold;
 }
-
+.cattext {
+    font-style: italic;
+}
 button, .actor {
     background-color: #3882F6;
     border-radius: 8px;
